@@ -9,9 +9,9 @@ char kullaniciAdi[50];
 int i;
 int secim3;
 
-//Berke Erdo�du & Asude F��k�n Proje Test Oyunu
-//Sorular.txt ;Soru metni, abcd ��klar� ve do�ru cevap metni olmak �zere alt��ar art arda sat�rdan olu�mal�d�r.
-//Soru eklenin sorunsuz �al��abilmesi i�in Sorular.txt'de en sonda fazladan bir sat�r bo�luk olmas� gerekmektedir.
+//Berke Erdoğdu & Asude Fışkın Proje Test Oyunu
+//Sorular.txt ;Soru metni, abcd şıkları ve doğru cevap metni olmak üzere alt��ar art arda satırdan oluşmalıdır.
+//Soru eklenin sorunsuz çalışabilmesi için Sorular.txt'de en sonda fazladan bir satır boşluk olması gerekmektedir.
 
 void rengim(int renk) //renk fonksiyonum 
 { 
@@ -53,7 +53,7 @@ void ana_menu() {
 }
 
 
-int S=1;// Soru say�s�n� tutan de�i�ken
+int S=1;// Soru sayısını tutan değişken
 struct sorum{
   char soru[120];
   char option_a[120];
