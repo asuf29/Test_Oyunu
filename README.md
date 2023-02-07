@@ -1,6 +1,7 @@
 # TEST OYUNU UYGULAMASI
 <br/>
-Uygulama içerisinde soru ekle, soru sil, soruları göster ve güncelle, oyun oyna, en yüksek skorları göster ve çık işlemleri bulunmaktadır. <br/>
+Uygulama içerisinde soru ekle, soru sil, soruları göster ve güncelle, oyun oyna, en yüksek skorları göster ve çık işlemleri bulunmaktadır. 
+<br/>
 Her işlem yapıldıktan sonra menü ekranda tekrar görüntülenmektedir.
 
 ## Proje Ekran Görüntüleri: 
